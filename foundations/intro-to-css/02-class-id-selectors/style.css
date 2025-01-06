@@ -1,0 +1,19 @@
+.number135{
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num{
+    font-size: 24px;
+}
+
+#a{
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+#b{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight:bold;
+}
